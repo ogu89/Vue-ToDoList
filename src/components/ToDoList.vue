@@ -91,6 +91,11 @@ export default {
       );
     },
   },
+  created() {
+    this.firstTask();
+
+  }
+
 };
 //firstTask()
 </script>
