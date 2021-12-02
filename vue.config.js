@@ -1,3 +1,5 @@
 module.exports = {
-    publicPath: '/vue-to-do-list/'
+    outputDir: 'docs',
+    assetsDir: './',
+    publicPath: './',
   }
